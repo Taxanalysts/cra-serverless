@@ -7,6 +7,6 @@ export const Details = withRouter(({ match: { params: { id } } }) => (
     <Helmet>
       <title>Details: {id}</title>
     </Helmet>
-    <h2>Details: {id}</h2>
+    <h2>Testing changing the code by Yonas...Details: {id}</h2>
   </>
 ))
